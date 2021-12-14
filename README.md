@@ -1,2 +1,2 @@
 # hltvscrape
-gathering data from hltv
+gathering data from hltv for a project
